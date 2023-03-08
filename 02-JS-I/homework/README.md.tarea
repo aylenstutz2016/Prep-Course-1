@@ -1,0 +1,8 @@
+1) 
+
+ * Variables = forma de almacenar el valor de algo para usar mas tarde.
+ * Strings = es un tirpo de texo conformado por bloques de texto que se definen entre comillas
+ * Funciones = Las funciones son una parte muy importante de todo lenguaje de programacion y sobre todo en JavaScript. Són tipos particulares de objetos, llamados callable objects u objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto.Una función siempre necesita paréntesis para ejecutarse.
+ (argumentos = se encuentran dentro de las funciones entre parentesis al lado del nombre de la funcion, `return`= es la unica forma en que los datos escapan de una funcion golpea una declaración de retorno, la función detiene inmediatamente lo que está haciendo y "devuelve" lo especificado.)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
